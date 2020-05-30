@@ -1,7 +1,12 @@
-/*
- * Solution by GetTemplates.co
- * URL: https://GetTemplates.co
- */
+/* new css */
+#my-nav{
+  position: absolute;
+  right: 40px;
+  
+}
+
+
+
 @font-face {
   font-family: "Lato-Regular";
   src: url(../fonts/Lato-Regular.ttf);
