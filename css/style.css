@@ -2,10 +2,17 @@
 #my-nav{
   position: absolute;
   right: 40px;
-  
+}
+#gtco-main-nav .navbar-nav li a{
+  color: white !important;
+
 }
 
 
+#gtco-main-nav .navbar-nav li a:hover{
+  color: #d3c7c766 !important;
+
+}
 
 @font-face {
   font-family: "Lato-Regular";
